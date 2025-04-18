@@ -1,0 +1,6 @@
+samplemodule.c
+setup.py
+sample_pkg.egg-info/PKG-INFO
+sample_pkg.egg-info/SOURCES.txt
+sample_pkg.egg-info/dependency_links.txt
+sample_pkg.egg-info/top_level.txt

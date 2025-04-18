@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: samplePkg
+Version: 1.0
+Summary: A sample Python module written in C
+Author: Manu Devappa
+Dynamic: author
+Dynamic: summary
